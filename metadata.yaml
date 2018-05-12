@@ -1,0 +1,30 @@
+_repo: Good-Blood_23223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wildenbruch, Ernst von
+    aliases:
+    - Wildenbruch, Adam Ernst von
+    - Von Wildenbruch, Ernst
+    birthdate: 1845
+    deathdate: 1909
+    gutenberg_agent_id: '25764'
+    url: http://www.gutenberg.org/2009/agents/25764
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_von_Wildenbruch
+description: ''
+gutenberg_issued: '2007-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Good Blood
+url: http://www.gutenberg.org/ebooks/23223
